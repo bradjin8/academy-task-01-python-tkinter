@@ -2,6 +2,9 @@
 import sys
 import Tkinter as root
 
+
+# main class declaration
+
 class Dashboard():
     def __init__(self,title,length,breadth):
         self.window = root.Tk()
